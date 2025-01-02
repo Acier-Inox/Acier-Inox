@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student @ Durham University
 --------------------------------------------
 
-I've been entranced by computing since the age of 7, building my first computer at 9 allowed me to follow this path ever since. Actions speak louder than words, so instead of telling you what I can do, I shall show you.
+I've been entranced by computing since the age of 7, building my first computer at 9 allowed me to follow this path ever since. I absolutely love anything to do with technology, please feel free to get in touch. :)
 
 * 🌍  I'm based in Durham, United Kingdom
 * ✉️  You can contact me at [pipmartinyates@icloud.com](mailto:pipmartinyates@icloud.com)
